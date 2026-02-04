@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Acox446/Acox446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Axel. 👋
 
-Here are some ideas to get you started:
+### Computer Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>
+    Currently researching AI sustainability & Transformers at La Salle URL.<br>
+    Building web apps with React/Next.js.
+  </em>
+</p>
+
+<br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,react,nextjs,docker,linux,git,bash&theme=light" />
+</a>
+
+<br><br>
+
+</div>
+
+---
+
+### 🚀 About Me
+
+I am a Computer Engineering student based in Barcelona with a passion for **Artificial Intelligence** and **Software Engineering**. My current focus lies at the intersection of machine learning efficiency and modern web development.
+
+* 🔭 **I’m currently working on:** Researching energy consumption in AI models and GPU stress testing.
+* 🌱 **I’m currently learning:** Deep Learning methodologies and Transformers.
+* 🛠 **My stack:** Python, C, Java, React, Next.js, SQL, and Docker.
+* ⚡ **Fun fact:** I build complex automation flows with **n8n** to streamline my daily tasks.
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Acox446&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acox446&layout=compact&theme=graywhite&hide_border=true&langs_count=6" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/axelmaynes" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:maynes.axel@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
