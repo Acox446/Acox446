@@ -34,19 +34,6 @@ I am a Computer Engineering student based in Barcelona with a passion for **Arti
 
 <br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Acox446&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acox446&layout=compact&theme=graywhite&hide_border=true&langs_count=6" />
-  </a>
-</div>
-
-<br>
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/axelmaynes" target="_blank">
