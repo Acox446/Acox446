@@ -4,7 +4,7 @@
 
 <br>
 
-<img width="360" src="coding.gif" alt="coding" />
+<img width="360" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="coding" />
 
 <br><br>
 
