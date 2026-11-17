@@ -9,11 +9,11 @@
 <br><br>
 
 Computer Engineering student at La Salle BCN, based in Barcelona.<br>
-Engineer by training, problem-solver by habit.
+Turning ideas into working software, and caffeine into ideas.
 
 <br>
 
-<a href="https://www.axelmaynes.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://www.axelmaynes.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/axelmaynes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 
