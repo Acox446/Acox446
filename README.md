@@ -2,10 +2,14 @@
 
 **Hi, I'm Axel**
 
-<img width="260" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="coding" />
+<br>
+
+<img width="360" src="coding.gif" alt="coding" />
+
+<br><br>
 
 Computer Engineering student at La Salle BCN, based in Barcelona.<br>
-Turning ideas into working software, and caffeine into ideas.
+Engineer by training, problem-solver by habit.
 
 <br>
 
