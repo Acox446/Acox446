@@ -13,7 +13,7 @@ Engineer by training, problem-solver by habit.
 
 <br>
 
-<a href="https://www.axelmaynes.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website" /></a>
+<a href="https://www.axelmaynes.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Portfolio" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/axelmaynes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 
